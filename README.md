@@ -12,6 +12,7 @@ World's Biggest University - (Making website is now one of the easiest thing in 
 <!-- ![Screenshot (154)](https://user-images.githubusercontent.com/86579429/178910075-bcfb6d5d-acd2-402c-b25b-2eec8a05295d.png) -->
 ![Screenshot (140)](https://user-images.githubusercontent.com/86579429/178910082-a3e37c21-1b64-4e21-b57b-8e17851c9541.png)
 ![Screenshot (141)](https://user-images.githubusercontent.com/86579429/178910085-9bc38f18-22c5-43f2-bf87-ef0e5a43e7a4.png)
+* Responsive for small devices.
 ![Screenshot (142)](https://user-images.githubusercontent.com/86579429/178910089-70598e6e-b008-4f84-b421-50f601d45492.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/86579429/178910090-9a84cc74-ef10-4eca-855f-a72194ece95f.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/86579429/178910092-794b12c8-39c0-4604-9d5a-0941522bb6ff.png)
