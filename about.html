@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDU University - HorridHanu</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="sub-header">
+        <nav>
+            <a href="index.html"><img src="img/logo.png" alt="University.com"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li class="nav-items"><a href="index.html">Home</a></li>
+                    <li class="nav-items"><a href="about.html">About</a></li>
+                    <li class="nav-items"><a href="course.html">Course</a></li>
+                    <li class="nav-items"><a href="blog.html">Blog</a></li>
+                    <li class="nav-items"><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <h1>About Us</h1>
+
+    </section>
+
+    <!------------------About us content-->
+    <section class="about-us">
+        <div class="row">
+            <div class="about-col">
+                <h1>We are world's lagerst University</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam incidunt harum voluptate aut
+                    officiis tempora quisquam nam, quaerat, delectus modi nisi aspernatur reprehenderit voluptatibus
+                    nesciunt. Quibusdam tempore est ea ab architecto unde optio illum sunt. In porro eius eligendi
+                    repellendus quidem nemo nam modi necessitatibus, facere unde. Ipsa, repellendus vel!</p>
+                <a href="" class="hero-btn red-btn">Explore Now</a>
+            </div>
+
+            <div class="about-col">
+                <img src="img/about.jpg">
+            </div>
+        </div>
+    </section>
+
+    <hr>
+    <!-- -----------Footer------------------->
+    <section class="footer">
+        <!-- <h4>About Us</h4> -->
+        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis -->
+        <!-- porro incidunt odio? Consequuntur, <br> velit? -->
+        <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. -->
+        <!-- Reiciendis a, accusamus temporibus.</p> -->
+
+        <div class="icons">
+            <a href="https://m.facebook.com/people/Horrid-Hanu/100059716728447/?comment_id=Y29tbWVudDoxMDUwNDc1OTE4ODEyNjU2XzEwNTA0ODYwNzg4MTE2NDA%3D"
+                target="_blank" rel="noreferrer noopener"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/horridhanu" target="_blank" rel="noreferrer noopener"><i
+                    class="fa fa-instagram"></i></a>
+            <a href="https://github.com/horridhanu/" target="_blank" rel="noreferrer noopener"><i
+                    class="fa fa-github"></i></a>
+            <a href="https://www.pinterest.com/horridhanu/" target="_blank" rel="noreferrer noopener"><i
+                    class="fa fa-pinterest"></i></a>
+        </div>
+        <p>Made With <i class="fa fa-heart-o"> </i> by HorridHanu</p>
+    </section>
+</body>
+
+<!-- -----------JAVA Script------------------->
+
+<script>
+    var navLinks = document.getElementById("navLinks");
+    function showMenu() {
+        navLinks.style.right = "0";
+    }
+    function hideMenu() {
+        navLinks.style.right = "-200px";
+    }
+</script>
+
+</html>

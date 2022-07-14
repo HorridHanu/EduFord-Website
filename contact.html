@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDU University - HorridHanu</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="sub-header">
+        <nav>
+            <a href="index.html"><img src="img/logo.png" alt="University.com"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li class="nav-items"><a href="index.html">Home</a></li>
+                    <li class="nav-items"><a href="about.html">About</a></li>
+                    <li class="nav-items"><a href="course.html">Course</a></li>
+                    <li class="nav-items"><a href="blog.html">Blog</a></li>
+                    <li class="nav-items"><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <h1>Contact Us</h1>
+
+    </section>
+
+
+    <!--------------------Contact us section-->
+
+    <section class="location">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13420.377956654158!2d77.0855398782615!3d28.857127020550937!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390da97cd61b3a37%3A0x386d209f7a424384!2sNarela%2C%20New%20Delhi!5e1!3m2!1sen!2sin!4v1657741498089!5m2!1sen!2sin"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    <section class="contact-us">
+        <div class="row">
+            <div class="contact-col">
+                <div>
+                    <i class="fa fa-home"></i>
+                    <span>
+                        <h5>XYZ Road, ABC Building</h5>
+                        <p>Narela, New Delhi-110040, IN</p>
+                    </span>
+                </div>
+                <div>
+                    <i class="fa fa-phone"></i>
+                    <span>
+                        <h5>+1 (431) 489-1247</h5>
+                        <p>Monday to saturday, 10AM to 6PM</p>
+                    </span>
+                </div>
+                <div>
+                    <i class="fa fa-envelope-o"></i>
+                    <span>
+                        <h5>info@University.com</h5>
+                        <p>Main us your query</p>
+                    </span>
+                </div>
+            </div>
+            <div class="contact-col">
+                <form action="index.php" method="post">
+                    <input type="text" name="name" placeholder="Username" required>
+                    <input type="email"name="email" placeholder="Email Address" required>
+                    <input type="text" name="subject" placeholder="Subject" required>
+                    <textarea rows="8" name="message" placeholder="Your message" required></textarea>
+                    <button type="submit" class="hero-btn red-btn">Send Message</button>
+                </form>
+            </div>
+        </div>
+
+    </section>
+
+    <hr>
+    <!-- -----------Footer------------------->
+    <section class="footer">
+        <h4>About Us</h4>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
+            porro incidunt odio? Consequuntur, <br> velit?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Reiciendis a, accusamus temporibus.</p>
+
+        <div class="icons">
+            <a href="https://m.facebook.com/people/Horrid-Hanu/100059716728447/?comment_id=Y29tbWVudDoxMDUwNDc1OTE4ODEyNjU2XzEwNTA0ODYwNzg4MTE2NDA%3D"
+                target="_blank" rel="noreferrer noopener"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/horridhanu" target="_blank" rel="noreferrer noopener"><i
+                    class="fa fa-instagram"></i></a>
+            <a href="https://github.com/horridhanu/" target="_blank" rel="noreferrer noopener"><i
+                    class="fa fa-github"></i></a>
+            <a href="https://www.pinterest.com/horridhanu/" target="_blank" rel="noreferrer noopener"><i
+                    class="fa fa-pinterest"></i></a>
+        </div>
+        <p>Made With <i class="fa fa-heart-o"> </i> by HorridHanu</p>
+    </section>
+</body>
+
+<!-- -----------JAVA Script------------------->
+
+<script>
+    var navLinks = document.getElementById("navLinks");
+    function showMenu() {
+        navLinks.style.right = "0";
+    }
+    function hideMenu() {
+        navLinks.style.right = "-200px";
+    }
+</script>
+
+</html>
