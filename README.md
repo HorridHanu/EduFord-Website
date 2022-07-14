@@ -4,4 +4,6 @@ World's Biggest University - (Making website is now one of the easiest thing in 
 
 # Features
 * Hover effect
-https://user-images.githubusercontent.com/86579429/178909301-ecffd3eb-ce62-4511-857f-e94a81f0e86d.mov
+* Nav bar with fully responsive in every devices
+* php file to contain the message from email
+* transitions
