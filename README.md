@@ -19,8 +19,8 @@ World's Biggest University - (Making website is now one of the easiest thing in 
 * NavBar in responsive mode.
 ![Screenshot (144)](https://user-images.githubusercontent.com/86579429/178910092-794b12c8-39c0-4604-9d5a-0941522bb6ff.png)
 <!-- ![Screenshot (145)](https://user-images.githubusercontent.com/86579429/178910095-f1874698-8be0-4dea-89fe-89f1d561d2a0.png) -->
-![Screenshot (146)](https://user-images.githubusercontent.com/86579429/178910097-9e735a08-209b-4499-bdce-4533e37b66f3.png)
-![Screenshot (147)](https://user-images.githubusercontent.com/86579429/178910099-561740fa-84fc-4451-814f-b4c848f0bf4f.png)
+<!-- ![Screenshot (146)](https://user-images.githubusercontent.com/86579429/178910097-9e735a08-209b-4499-bdce-4533e37b66f3.png) -->
+<!-- ![Screenshot (147)](https://user-images.githubusercontent.com/86579429/178910099-561740fa-84fc-4451-814f-b4c848f0bf4f.png) -->
 ![Screenshot (148)](https://user-images.githubusercontent.com/86579429/178910101-c64844b6-5ae5-496b-9c9f-b9e194568d39.png)
 ![Screenshot (149)](https://user-images.githubusercontent.com/86579429/178910103-209079e7-f5a1-4616-9336-6c27f33b005f.png)
 ![Screenshot (150)](https://user-images.githubusercontent.com/86579429/178910106-5af3182d-021e-4d62-9d87-29ffd601ed30.png)
