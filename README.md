@@ -21,8 +21,11 @@ World's Biggest University - (Making website is now one of the easiest thing in 
 <!-- ![Screenshot (145)](https://user-images.githubusercontent.com/86579429/178910095-f1874698-8be0-4dea-89fe-89f1d561d2a0.png) -->
 <!-- ![Screenshot (146)](https://user-images.githubusercontent.com/86579429/178910097-9e735a08-209b-4499-bdce-4533e37b66f3.png) -->
 <!-- ![Screenshot (147)](https://user-images.githubusercontent.com/86579429/178910099-561740fa-84fc-4451-814f-b4c848f0bf4f.png) -->
+* Courses
 ![Screenshot (148)](https://user-images.githubusercontent.com/86579429/178910101-c64844b6-5ae5-496b-9c9f-b9e194568d39.png)
+* Campus
 ![Screenshot (149)](https://user-images.githubusercontent.com/86579429/178910103-209079e7-f5a1-4616-9336-6c27f33b005f.png)
+* Facilities
 ![Screenshot (150)](https://user-images.githubusercontent.com/86579429/178910106-5af3182d-021e-4d62-9d87-29ffd601ed30.png)
 ![Screenshot (151)](https://user-images.githubusercontent.com/86579429/178910110-db238841-219b-4c9a-9ad7-ce1ef68be24c.png)
 ![Screenshot (152)](https://user-images.githubusercontent.com/86579429/178910113-0278d5d7-e4c2-4ea5-8cc4-6ac7d76a77d3.png)
