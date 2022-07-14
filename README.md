@@ -8,7 +8,7 @@ World's Biggest University - (Making website is now one of the easiest thing in 
 * php file to contain the message from email
 * transitions
 
-# View - hehe
+# View - Mode
 <!-- ![Screenshot (154)](https://user-images.githubusercontent.com/86579429/178910075-bcfb6d5d-acd2-402c-b25b-2eec8a05295d.png) -->
 * Home page
 ![Screenshot (140)](https://user-images.githubusercontent.com/86579429/178910082-a3e37c21-1b64-4e21-b57b-8e17851c9541.png)
@@ -27,6 +27,9 @@ World's Biggest University - (Making website is now one of the easiest thing in 
 ![Screenshot (149)](https://user-images.githubusercontent.com/86579429/178910103-209079e7-f5a1-4616-9336-6c27f33b005f.png)
 * Facilities
 ![Screenshot (150)](https://user-images.githubusercontent.com/86579429/178910106-5af3182d-021e-4d62-9d87-29ffd601ed30.png)
+* Testmonials
 ![Screenshot (151)](https://user-images.githubusercontent.com/86579429/178910110-db238841-219b-4c9a-9ad7-ce1ef68be24c.png)
+* Contact
 ![Screenshot (152)](https://user-images.githubusercontent.com/86579429/178910113-0278d5d7-e4c2-4ea5-8cc4-6ac7d76a77d3.png)
+* About
 ![Screenshot (153)](https://user-images.githubusercontent.com/86579429/178910115-5c644a82-a508-4c67-9511-6bf2bb567a3c.png)
